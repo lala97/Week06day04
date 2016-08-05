@@ -1,0 +1,40 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+#menu{
+	background: #EEEBEC;
+	width: 100%;
+
+	img{
+    padding-left: 9%;
+    padding-top: 40px;
+    padding-bottom: 3em;
+    cursor: pointer;
+	}
+
+	ul{
+		list-style-type: none;
+		
+	}
+	ul li{
+		float: left;
+		padding-top: 4em;
+		padding-left: 7%;
+    padding-right: 5%;
+		display: inline-block;
+	}
+	ul li a{
+		font-size: 15px;
+		color:black;
+		text-transform: uppercase;
+	}
+	a:hover{
+		text-decoration: none;
+		color:#C8C10D;
+	}
+	.active{
+		color:#CB3362;
+	}
+}

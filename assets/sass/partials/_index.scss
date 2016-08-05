@@ -1,0 +1,96 @@
+#slider{
+	width: 100%;
+	background: white;
+	overflow: hidden;
+
+	img{
+		height: 663px;
+		background: transparent;
+		padding-left: 18%;
+		position: relative;
+	}
+	
+}
+#product{
+	width: 100%;
+	background:#eae7e8;
+	background-repeat: no-repeat;
+	position: relative;
+
+	h4{
+    padding-left: 18.6%;
+    padding-top: 39px;
+    text-transform: uppercase;
+
+	}
+
+	h3{
+		font-weight: 700;
+    padding-left: 19%;
+    margin-top:10px;
+    font-weight: 900;
+    color:#E32A62;
+	}
+	.oneP{
+    padding-left: 19%;
+    padding-top: 20px;
+    line-height: 24px;
+    margin-bottom:0;
+   
+	}
+	.twoP{
+		 padding-left: 19%;
+		 padding-bottom: 63px;
+	}
+	img{
+		width: 100%;
+	}
+	#ferid{
+		width: 100%;
+		height: 259px;
+	    background: url(../../img/yogurt.jpg);
+	    background-repeat: no-repeat;
+	    position: absolute;
+         right: 11%;
+	}
+
+}
+#productIcon{
+	width: 100%;
+  min-height: 157px;
+  background: #C8C10D;
+
+  	.icon {
+  		width: 88px;
+  		height: 44px;
+  		background:url('../../img/iconlar.png');
+  		    margin-top: 36px;
+     	
+  	}
+	.icon1{
+		background-position: 0px -372px;
+	}
+	.icon2{
+		background-position: 0px -417px;
+	}
+	.icon3{
+		background-position: 0px -279px;
+	}
+	.icon4{
+		background-position: 0px -327px;
+	}
+	#text{
+		padding-left: 24%;
+	}
+	#text1{
+		padding:0;
+	}
+     h2{
+     	color:white;
+     	text-transform: uppercase;
+     	font-size:20px;
+     	padding-left: 36%;
+     }
+     
+ }
+ 
